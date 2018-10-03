@@ -18,15 +18,15 @@ jmeter -g results-isma.jtl -o dashboard-isma
 
 ## Evidence
 
-<p align="center">
+<p>
   <img src="pipeline_ok.png" width="350" title="Pipeline ok">
-</p
-<p align="center">
+</p>
+<p>
   <img src="log_protractor.png" width="350" title="Protractor tests ok">
-</p
-<p align="center">
+</p>
+<p>
   <img src="log_newman.png" width="350" title="Newman tests ok">
-</p
+</p>
 
 ## Jenkins pipeline
 ```
